@@ -1,7 +1,7 @@
 # Hi! My name is Kjartan Gundersen :wave:
 
 ## About Me :information_source: 
-I am a husband and father of one (soon to be two! :baby:), and a tech enthusiast passionate about programming! 
+I am a husband and father of two, and a tech enthusiast passionate about programming! 
 
 ## Education :student:
 I am currently finishing the last year of a masters degree as a teacher in mathematics. In addition I'm taking a bachelor in data science part time. 
