@@ -17,7 +17,7 @@ Full-stack developer at **Knowit Experience**, building with .NET, Azure, and Ty
 - **Languages:** C#, TypeScript, Go
 - **Backend:** .NET, Azure Functions, Service Bus
 - **Frontend:** Blazor, React
-- **Infra & tools:** Azure, Bicep, Ansible, Neovim
+- **Infra & tools:** Azure, Ansible, Neovim
 
 ### 📂 Featured projects
 
