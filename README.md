@@ -2,7 +2,15 @@
 
 Full-stack developer at **Knowit Experience**, building with .NET, Azure, and TypeScript.
 
-Previously worked on enterprise HR and integration platforms at TV 2.
+### 💼 Experience
+
+**TV 2** · 2025–2026 · Full-stack on an enterprise HR platform
+
+- Delivered features and fixes across a shared .NET SDK, Blazor frontend, Azure Functions, and on-prem integration services
+- Diagnosed recurring Service Bus dead-lettering in production — combined log analysis, error-handling changes, and Bicep infrastructure tuning
+- Improved shared SDK maintainability by replacing magic strings with typed constants (240+ tests passing)
+- Fixed integration and validation issues in HR and offboarding flows before they reached downstream systems
+- Patched security vulnerabilities and kept internal tooling dependencies current
 
 ### 🛠 Tech stack
 
